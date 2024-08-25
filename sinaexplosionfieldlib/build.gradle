@@ -9,7 +9,7 @@ publishing {
         release(MavenPublication){
             from components.findByName('release')
             groupId='com.github.shabanshaban'
-            artifactId = 'sinaPlattySoft'
+            artifactId = 'sinaexplosionfieldlibs'
             version = '1.0.0'
 
 
